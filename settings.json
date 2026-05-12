@@ -1,7 +1,7 @@
 {
-  "name": "Andy",
+  "name": "AFKB",
   "bot-account": {
-    "username": "Andy",
+    "username": "GigaNiga",
     "password": "",
     "type": "offline"
   },
@@ -31,15 +31,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Lonnnnnnn",
-        "Du Ma May !",
-        "Server nhu cai qq"
+        "....",
+        "System check done!",
+        "I like to play GaySex!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 3000,
-    "max-reconnect-delay": 210000
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 200000
   },
   "movement": {
     "enabled": true,
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": true,
+    "beds": false,
     "chat": true,
     "console-commands": true
   },
@@ -69,8 +69,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "pick-up-day": false,
+    "place-night": false
   },
   "discord": {
     "enabled": false,
